@@ -4,6 +4,7 @@ public class second {
         System.out.println("hellow kartik");
         System.out.println("hellow vijaymundhe");
          System.out.println("vijaymundhe");
+        System.out.println("abcd");
     }
     
 }
