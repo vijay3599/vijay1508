@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class product {
     public static void main(String[] args) {

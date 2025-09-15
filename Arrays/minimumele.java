@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class minimumele {
     public static void main(String[] args) {
